@@ -2,11 +2,11 @@
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, NodeJs, NextJs, MERN stack, and ElectronJs.
 
-**Some of my projects:**
+## Some of my projects:
 
 - [DocuSync](https://github.com/kanhaiya04/DocuSync) - A collaborative text editor desktop application designed for seamless teamwork. Tech slack used are electron.js, react, socket.io, express and mongodb as database.
 - [iNotebook](https://github.com/kanhaiya04/inotebook) - Web application to keep all our notes in one place. Tech slack used react, node.js and mongodb as database.
-  - [Environ.Earth](https://github.com/kanhaiya04/Environ.earth) - A website that focuses on identifying companies with a "net zero" target and analyzing their key components to determine their "GREEN INDEX" and providing the data with the help of APIs. Tech slack used html, css, javascript, leaflet.js, node.js and mongodb as database.
+- [Environ.Earth](https://github.com/kanhaiya04/Environ.earth) - A website that focuses on identifying companies with a "net zero" target and analyzing their key components to determine their "GREEN INDEX" and providing the data with the help of APIs. Tech slack used html, css, javascript, leaflet.js, node.js and mongodb as database.
 - [TechBlogs](https://github.com/kanhaiya04/Tech-blogs) - Blogging site with html, ejs, css, javascript, node.js, and mongodb as database.
 - [ShipEZ](https://github.com/kanhaiya04/ShipEZ) - Warehouse management portal and create shipments for Shipping agencies using html, ejs, css, javascript, node.js and, mongodb as database
 ## Tech slack:
